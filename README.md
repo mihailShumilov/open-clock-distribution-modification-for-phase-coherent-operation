@@ -1,5 +1,7 @@
 # Open clock-distribution modification for phase-coherent RTL-SDR — code & data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20633037.svg)](https://doi.org/10.5281/zenodo.20633037)
+
 Reproduction package for the HardwareX article *"An open clock-distribution
 modification for phase-coherent operation of commodity RTL-SDR receivers."*
 It contains the capture/analysis pipeline, the measurement data summaries, the
@@ -61,4 +63,4 @@ Code: MIT (`LICENSE`). Hardware design files: CERN-OHL-S v2. Documentation/figur
 
 ## Citation
 
-[TODO: add article DOI / Zenodo DOI on acceptance.]
+Archived release: **https://doi.org/10.5281/zenodo.20633037** (Zenodo). Article DOI to be added on acceptance (HardwareX).
