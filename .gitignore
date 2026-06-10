@@ -1,0 +1,5 @@
+raw_iq/
+*.iq
+__pycache__/
+*.pyc
+.DS_Store

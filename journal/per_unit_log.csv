@@ -1,0 +1,3 @@
+stick_SN,date,PPM_before,PPM_after,jitter_to_ref_deg,lost_samples,ref_stick_SN,notes
+1002,2026-06-08,30,-27,0.07,1,1003,"#3; пара с 1003; до мод 2 незав.TCXO Δ3ppm→beat~250Гц; после инжекции CLK0 Si5351#1 → beat 0, jitter 0.07°"
+1003,2026-06-08,27,-33,0.07,0,1002,"#4; пара с 1002; PPM_after≈-30 как у 1002 (общий Si5351, знак сменился т.к. опора TCXO→Si5351); beat 0"

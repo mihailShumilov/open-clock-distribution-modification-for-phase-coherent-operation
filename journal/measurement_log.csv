@@ -1,0 +1,1 @@
+timestamp,condition,run,freq_MHz,tx_source,stick_A_SN,stick_B_SN,gain,sps,len_s,board_temp_C,SNR_dB,drift_deg_per_s,jitter_deg_std,phase_offset_deg,notes
